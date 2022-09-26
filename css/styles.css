@@ -100,6 +100,17 @@ nav ul li a:hover {
   color: #17181a;
   letter-spacing: 2px;
 }
+/*aca va el css de la descripcion*/
+.gallery li h5 {
+  margin-bottom: 6px;
+  text-align: center;
+  font-size: 1.125rem;
+  font-weight: bold;
+  line-height: 100%;
+  text-transform: uppercase;
+  color: #17181a;
+  letter-spacing: 2px;
+}
 
 .gallery li p {
   text-align: center;
